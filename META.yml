@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Prima-codecs-win64
-version:            1.01
+version:            1.02
 abstract:           ~
 author:
     - Dmitry Karasik <dmitry@karasik.eu.org>
